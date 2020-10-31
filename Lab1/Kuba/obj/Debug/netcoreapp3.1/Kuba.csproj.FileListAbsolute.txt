@@ -1,0 +1,12 @@
+C:\Users\kubag\studia\csharp\Lab1\Kuba\bin\Debug\netcoreapp3.1\Kuba.exe
+C:\Users\kubag\studia\csharp\Lab1\Kuba\bin\Debug\netcoreapp3.1\Kuba.deps.json
+C:\Users\kubag\studia\csharp\Lab1\Kuba\bin\Debug\netcoreapp3.1\Kuba.runtimeconfig.json
+C:\Users\kubag\studia\csharp\Lab1\Kuba\bin\Debug\netcoreapp3.1\Kuba.runtimeconfig.dev.json
+C:\Users\kubag\studia\csharp\Lab1\Kuba\bin\Debug\netcoreapp3.1\Kuba.dll
+C:\Users\kubag\studia\csharp\Lab1\Kuba\bin\Debug\netcoreapp3.1\Kuba.pdb
+C:\Users\kubag\studia\csharp\Lab1\Kuba\obj\Debug\netcoreapp3.1\Kuba.AssemblyInfoInputs.cache
+C:\Users\kubag\studia\csharp\Lab1\Kuba\obj\Debug\netcoreapp3.1\Kuba.AssemblyInfo.cs
+C:\Users\kubag\studia\csharp\Lab1\Kuba\obj\Debug\netcoreapp3.1\Kuba.csproj.CoreCompileInputs.cache
+C:\Users\kubag\studia\csharp\Lab1\Kuba\obj\Debug\netcoreapp3.1\Kuba.dll
+C:\Users\kubag\studia\csharp\Lab1\Kuba\obj\Debug\netcoreapp3.1\Kuba.pdb
+C:\Users\kubag\studia\csharp\Lab1\Kuba\obj\Debug\netcoreapp3.1\Kuba.genruntimeconfig.cache
